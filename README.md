@@ -8,6 +8,11 @@ fundamental to intermediate SQL skills.
 
 ---
 
+
+This repository is updated daily with practice files focused on essential SQL for data analysis and foundational machine learning concepts.
+
+---
+
 ## 🛠 Tools Used
 - MySQL
 - MySQL Workbench
