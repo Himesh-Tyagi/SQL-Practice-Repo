@@ -13,11 +13,16 @@ fundamental to intermediate SQL skills.
 **📘 What’s Covered**
 
 -Creating and using databases
+
 -Creating tables with constraints
 
 -PRIMARY KEY
+
+
 -AUTO_INCREMENT
+
 -UNIQUE
+
 -ENUM
 
 **Inserting single and multiple records**
