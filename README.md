@@ -8,7 +8,7 @@ fundamental to intermediate SQL skills.
 
 ---
 
-#📅 Day 01 – SQL Basics & Database Fundamentals
+##📅 Day 01 – SQL Basics & Database Fundamentals
 
 **📘 What’s Covered**
 
@@ -31,14 +31,14 @@ fundamental to intermediate SQL skills.
 
 **Working with realistic sample datasets (user, teachers tables)**
 
-#📂 Day 01 Contents
+##📂 Day 01 Contents
 
 **📄 SQL Query File**
 
 - Complete SQL script for database & table creation
 - Data insertion and table operations
      
-#📘 Explanation PDF
+##📘 Explanation PDF
 
 - Step-by-step explanation of each SQL query
 - Beginner-friendly and interview-oriented notes
