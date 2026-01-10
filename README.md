@@ -8,7 +8,7 @@ fundamental to intermediate SQL skills.
 
 ---
 
-##📅 Day 01 – SQL Basics & Database Fundamentals
+## 📅 Day 01 – SQL Basics & Database Fundamentals
 
 **📘 What’s Covered**
 
