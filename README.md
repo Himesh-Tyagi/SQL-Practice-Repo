@@ -12,7 +12,7 @@ fundamental to intermediate SQL skills.
 
 **📘 What’s Covered**
 
--Creating and using databases
+- Creating and using databases
 
 -Creating tables with constraints
 
