@@ -13,36 +13,35 @@ fundamental to intermediate SQL skills.
 **📘 What’s Covered**
 
 - Creating and using databases
-
--Creating tables with constraints
-
--PRIMARY KEY
-
-
--AUTO_INCREMENT
-
--UNIQUE
-
--ENUM
+- Creating tables with constraints
+- PRIMARY KEY
+- AUTO_INCREMENT
+- UNIQUE
+- ENUM
 
 **Inserting single and multiple records**
+
 **Using SELECT * to retrieve data**
+
 **Modifying table structure using:**
 
--ALTER TABLE
--ADD COLUMN
--DROP COLUMN
+- ALTER TABLE
+- ADD COLUMN
+- DROP COLUMN
 
 **Working with realistic sample datasets (user, teachers tables)**
 
 #📂 Day 01 Contents
+
 **📄 SQL Query File**
-     -Complete SQL script for database & table creation
-     -Data insertion and table operations
+
+- Complete SQL script for database & table creation
+- Data insertion and table operations
      
 #📘 Explanation PDF
--Step-by-step explanation of each SQL query
--Beginner-friendly and interview-oriented notes
+
+- Step-by-step explanation of each SQL query
+- Beginner-friendly and interview-oriented notes
 
 This repository is updated daily with practice files focused on essential SQL for data analysis and foundational machine learning concepts.
 
