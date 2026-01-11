@@ -64,9 +64,6 @@ All queries are written manually to strengthen core SQL fundamentals for data an
   - DEFAULT
   - CHECK
 
-🛠 Tools Used
-- MySQL
-- SQL Workbench / CLI
 
 📂 File Included
 - DAY 2.sql – Contains all SQL practice queries
