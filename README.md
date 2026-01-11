@@ -45,6 +45,38 @@ fundamental to intermediate SQL skills.
 
 This repository is updated daily with practice files focused on essential SQL for data analysis and foundational machine learning concepts.
 
+--- 
+
+## 📘 SQL Day 2 – Constraints & Data Operations (MySQL)
+
+📌 Overview  
+Day 2 focuses on table creation, inserting data, and understanding SQL constraints through hands-on practice queries.  
+All queries are written manually to strengthen core SQL fundamentals for data analysis.
+
+🧠 Topics Covered
+- CREATE TABLE
+- INSERT INTO
+- SELECT queries
+- SQL Constraints
+  - PRIMARY KEY
+  - NOT NULL
+  - UNIQUE
+  - DEFAULT
+  - CHECK
+
+🛠 Tools Used
+- MySQL
+- SQL Workbench / CLI
+
+📂 File Included
+- DAY 2.sql – Contains all SQL practice queries
+
+🎯 Learning Outcome
+- Learn how to create tables with constraints  
+- Understand data integrity in SQL  
+- Build strong SQL foundations for data analytics
+
+
 ---
 
 ## 🛠 Tools Used
