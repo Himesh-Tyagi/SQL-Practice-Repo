@@ -73,6 +73,30 @@ All queries are written manually to strengthen core SQL fundamentals for data an
 - Understand data integrity in SQL  
 - Build strong SQL foundations for data analytics
 
+  ---
+
+  # 📅 Day 3 – SQL Joins & Keys Practice
+
+## 📌 Overview
+Day 3 focuses on understanding table relationships using **Primary Key**, **Foreign Key**, and **JOIN operations**.  
+Tables and sample data are created specifically to demonstrate how joins work between related tables.
+
+## 🧱 Topics Covered
+- CREATE TABLE
+- INSERT INTO
+- SELECT queries
+- LEFT JOIN
+- RIGHT JOIN
+- PRIMARY KEY
+- FOREIGN KEY
+- AUTO INCREMENT
+- UNIQUE
+- AUTO COMMIT (basic concept)
+
+## 🔗 Key Concept
+The tables and inserted values are designed to show **relationships between tables**, making it easier to understand **JOIN operations and foreign key usage**.
+
+
 
 ---
 
