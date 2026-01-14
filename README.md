@@ -96,6 +96,37 @@ Tables and sample data are created specifically to demonstrate how joins work be
 ## 🔗 Key Concept
 The tables and inserted values are designed to show **relationships between tables**, making it easier to understand **JOIN operations and foreign key usage**.
 
+---
+
+
+# 📅 Day 4 – Advanced SQL Concepts
+
+This section covers important SQL concepts used to combine data, optimize query performance, and simplify complex queries. These topics are essential for data analysis and interview preparation.
+
+---
+
+## 📌 Topics Covered
+
+### 🔹 UNION
+
+### 🔹 UNION ALL
+
+### 🔹 INDEX
+
+### 🔹 VIEW
+ 
+
+---
+
+
+---
+
+## 🎯 Learning Outcome
+By completing Day 4, you will understand how to:
+- Combine query results efficiently
+- Optimize query performance using indexes
+- Simplify queries using views
+- Choose between UNION and UNION ALL correctly
 
 
 ---
