@@ -81,17 +81,17 @@ This repository is structured for **focused learning in first 5 days** and **han
 
 ## 🛠 Requirements
 
-✔ MySQL  
-✔ MySQL Workbench / DBeaver  
-✔ Basic computer & SQL understanding  
+- ✔ MySQL  
+- ✔ MySQL Workbench / DBeaver  
+- ✔ Basic computer & SQL understanding  
 
 ---
 ## 📌 Practice Rules (Important)
 
-✔ Try queries yourself first
-✔ Avoid copy-paste
-✔ Modify conditions & data
-✔ Think like a Data Analyst
+- ✔ Try queries yourself first
+- ✔ Avoid copy-paste
+- ✔ Modify conditions & data
+- ✔ Think like a Data Analyst
 
 ---
 
@@ -99,9 +99,9 @@ This repository is structured for **focused learning in first 5 days** and **han
 
 Want to improve this repo?
 
-✔ Add more practice questions
-✔ Add real-world datasets
-✔ Improve explanations
+- ✔ Add more practice questions
+- ✔ Add real-world datasets
+- ✔ Improve explanations
 
 Fork → Practice → Pull Request 👍
 
@@ -118,14 +118,15 @@ If this repo helps you:
 ---
 ## 👨‍💻 Author
 
-** Himesh Tyagi **
+Himesh Tyagi ||
 Aspiring Data Analyst | SQL Learner
 
-Learning first. Practicing harder. Growing daily 🚀
+## Learning first. Practicing harder. Growing daily 🚀
 
 ---
 
 ## 📌 Note
+
 All tables and data used in this repository are created using SQL scripts for
 practice purposes only.
 
