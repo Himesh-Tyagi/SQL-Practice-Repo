@@ -86,7 +86,7 @@ This repository is structured for **focused learning in first 5 days** and **han
 ✔ Basic computer & SQL understanding  
 
 ---
-📌 Practice Rules (Important)
+## 📌 Practice Rules (Important)
 
 ✔ Try queries yourself first
 ✔ Avoid copy-paste
@@ -95,7 +95,7 @@ This repository is structured for **focused learning in first 5 days** and **han
 
 ---
 
-🤝 Contributions
+##🤝 Contributions
 
 Want to improve this repo?
 
@@ -106,9 +106,9 @@ Want to improve this repo?
 Fork → Practice → Pull Request 👍
 
 ---
-👨‍💻 Author
+##👨‍💻 Author
 
-Himesh Tyagi
+** Himesh Tyagi **
 Aspiring Data Analyst | SQL Learner
 
 Learning first. Practicing harder. Growing daily 🚀
