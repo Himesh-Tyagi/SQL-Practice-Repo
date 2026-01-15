@@ -106,6 +106,16 @@ Want to improve this repo?
 Fork → Practice → Pull Request 👍
 
 ---
+
+## ⭐ Support
+
+If this repo helps you:
+
+- ⭐ Star it
+- 📌 Share with friends
+- 💬 Suggest improvements
+
+---
 ## 👨‍💻 Author
 
 ** Himesh Tyagi **
