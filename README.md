@@ -57,7 +57,7 @@ This repository is structured for **focused learning in first 5 days** and **han
 
 ## 📁 Repository Structure
 
-📦 SQL-Practice-Repo
+```
 ├── Day01.sql
 ├── Day01_Explanation.pdf
 ├── Day02.sql
@@ -74,6 +74,7 @@ This repository is structured for **focused learning in first 5 days** and **han
 ├── Day09_Practice.sql
 ├── Day10_Practice.sql
 ├── README.md
+```
 
 
 ---
