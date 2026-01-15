@@ -95,7 +95,7 @@ This repository is structured for **focused learning in first 5 days** and **han
 
 ---
 
-##🤝 Contributions
+## 🤝 Contributions
 
 Want to improve this repo?
 
@@ -106,7 +106,7 @@ Want to improve this repo?
 Fork → Practice → Pull Request 👍
 
 ---
-##👨‍💻 Author
+## 👨‍💻 Author
 
 ** Himesh Tyagi **
 Aspiring Data Analyst | SQL Learner
