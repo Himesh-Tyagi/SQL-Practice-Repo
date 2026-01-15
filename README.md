@@ -1,149 +1,117 @@
 # SQL-Practice-Repository
 
-# SQL 7 Days Practice (MySQL)
+# 📊 10-Day SQL Learning & Practice Challenge (MySQL)
 
-This repository contains my 7-day SQL practice focused on core SQL concepts.
-All tables are created manually using SQL, and queries are written to strengthen
-fundamental to intermediate SQL skills.
+Welcome to the **10-Day SQL Learning & Practice Challenge** 🚀  
+This repository is structured for **focused learning in first 5 days** and **hands-on practice in the next 5 days**, specially designed for **Data Analyst aspirants**.
 
 ---
 
-## 📅 Day 01 – SQL Basics & Database Fundamentals
+## 🎯 Challenge Structure (Simple & Practical)
 
-**📘 What’s Covered**
+- 📘 **Day 1–5 → Learning Phase**  
+  Concepts + examples + understanding SQL fundamentals  
 
-- Creating and using databases
-- Creating tables with constraints
-- PRIMARY KEY
-- AUTO_INCREMENT
-- UNIQUE
-- ENUM
+- 🧠 **Day 6–10 → Practice Phase**  
+  Real SQL queries, interview-style questions & self-practice  
 
-**Inserting single and multiple records**
+---
 
-**Using SELECT * to retrieve data**
+## 🗓️ Day-Wise Roadmap
 
-**Modifying table structure using:**
+### 📘 Learning Phase (Day 1 – Day 5)
 
-- ALTER TABLE
-- ADD COLUMN
-- DROP COLUMN
+| Day | What You Learn |
+|----|----------------|
+| **Day 01** | SQL Basics – CREATE DATABASE, USE, CREATE TABLE |
+| **Day 02** | INSERT, SELECT, WHERE, DISTINCT |
+| **Day 03** | Constraints – PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL |
+| **Day 04** | UPDATE, DELETE, TRUNCATE |
+| **Day 05** | Aggregate Functions – COUNT, SUM, AVG, MIN, MAX |
 
-**Working with realistic sample datasets (user, teachers tables)**
+---
 
-## 📂 Day 01 Contents
+### 🧠 Practice Phase (Day 6 – Day 10)
 
-**📄 SQL Query File**
+| Day | What You Practice |
+|----|------------------|
+| **Day 06** | GROUP BY & HAVING – Practice Questions |
+| **Day 07** | Joins – INNER, LEFT, RIGHT (Practice Queries) |
+| **Day 08** | Subqueries & Nested Queries |
+| **Day 09** | Views, Indexes, UNION |
+| **Day 10** | Stored Procedures, Triggers & Mixed SQL Practice |
 
-- Complete SQL script for database & table creation
-- Data insertion and table operations
-     
-## 📘 Explanation PDF
+> ⚠️ **Day 6–10 files contain ONLY PRACTICE**, no theory — pure hands-on 💪
 
-- Step-by-step explanation of each SQL query
-- Beginner-friendly and interview-oriented notes
+---
 
-This repository is updated daily with practice files focused on essential SQL for data analysis and foundational machine learning concepts.
+## 🧠 Skills You’ll Build
 
---- 
+✔ Strong SQL fundamentals  
+✔ Data filtering & aggregation  
+✔ Writing optimized queries  
+✔ Interview-ready SQL logic  
+✔ Confidence with MySQL  
 
-## 📘 SQL Day 2 – Constraints & Data Operations (MySQL)
+---
 
-📌 Overview  
-Day 2 focuses on table creation, inserting data, and understanding SQL constraints through hands-on practice queries.  
-All queries are written manually to strengthen core SQL fundamentals for data analysis.
+## 📁 Repository Structure
 
-🧠 Topics Covered
-- CREATE TABLE
-- INSERT INTO
-- SELECT queries
-- SQL Constraints
-  - PRIMARY KEY
-  - NOT NULL
-  - UNIQUE
-  - DEFAULT
-  - CHECK
+📦 SQL-Practice-Repo
+├── Day01.sql
+├── Day01_Explanation.pdf
+├── Day02.sql
+├── Day02_Explanation.pdf
+├── Day03.sql
+├── Day03_Explanation.pdf
+├── Day04.sql
+├── Day04_Explanation.pdf
+├── Day05.sql
+├── Day05_Explanation.pdf
+├── Day06_Practice.sql
+├── Day07_Practice.sql
+├── Day08_Practice.sql
+├── Day09_Practice.sql
+├── Day10_Practice.sql
+├── README.md
 
-
-📂 File Included
-- DAY 2.sql – Contains all SQL practice queries
-
-🎯 Learning Outcome
-- Learn how to create tables with constraints  
-- Understand data integrity in SQL  
-- Build strong SQL foundations for data analytics
-
-  ---
-
-  # 📅 Day 3 – SQL Joins & Keys Practice
-
-## 📌 Overview
-Day 3 focuses on understanding table relationships using **Primary Key**, **Foreign Key**, and **JOIN operations**.  
-Tables and sample data are created specifically to demonstrate how joins work between related tables.
-
-## 🧱 Topics Covered
-- CREATE TABLE
-- INSERT INTO
-- SELECT queries
-- LEFT JOIN
-- RIGHT JOIN
-- PRIMARY KEY
-- FOREIGN KEY
-- AUTO INCREMENT
-- UNIQUE
-- AUTO COMMIT (basic concept)
-
-## 🔗 Key Concept
-The tables and inserted values are designed to show **relationships between tables**, making it easier to understand **JOIN operations and foreign key usage**.
 
 ---
 
 
-# 📅 Day 4 – Advanced SQL Concepts
+## 🛠 Requirements
 
-This section covers important SQL concepts used to combine data, optimize query performance, and simplify complex queries. These topics are essential for data analysis and interview preparation.
+✔ MySQL  
+✔ MySQL Workbench / DBeaver  
+✔ Basic computer & SQL understanding  
+
+---
+📌 Practice Rules (Important)
+
+✔ Try queries yourself first
+✔ Avoid copy-paste
+✔ Modify conditions & data
+✔ Think like a Data Analyst
 
 ---
 
-## 📌 Topics Covered
+🤝 Contributions
 
-### 🔹 UNION
+Want to improve this repo?
 
-### 🔹 UNION ALL
+✔ Add more practice questions
+✔ Add real-world datasets
+✔ Improve explanations
 
-### 🔹 INDEX
-
-### 🔹 VIEW
- 
-
----
-
+Fork → Practice → Pull Request 👍
 
 ---
+👨‍💻 Author
 
-## 🎯 Learning Outcome
-By completing Day 4, you will understand how to:
-- Combine query results efficiently
-- Optimize query performance using indexes
-- Simplify queries using views
-- Choose between UNION and UNION ALL correctly
+Himesh Tyagi
+Aspiring Data Analyst | SQL Learner
 
-
----
-
-## 🛠 Tools Used
-- MySQL
-- MySQL Workbench
-- Git & GitHub
-
-
----
-
-## 🎯 Goal
-- Build strong SQL fundamentals
-- Practice interview-relevant queries
-- Maintain consistent GitHub activity
-- Prepare for SQL-based technical rounds
+Learning first. Practicing harder. Growing daily 🚀
 
 ---
 
