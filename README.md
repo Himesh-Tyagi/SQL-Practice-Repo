@@ -23,11 +23,11 @@ This repository is structured for **focused learning in first 5 days** and **han
 
 | Day | What You Learn |
 |----|----------------|
-| **Day 01** | SQL Basics – CREATE DATABASE, USE, CREATE TABLE |
-| **Day 02** | INSERT, SELECT, WHERE, DISTINCT |
-| **Day 03** | Constraints – PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL |
-| **Day 04** | UPDATE, DELETE, TRUNCATE |
-| **Day 05** | Aggregate Functions – COUNT, SUM, AVG, MIN, MAX |
+| **Day 01** | SQL Basics – CREATE DATABASE, USE, CREATE TABLE,INSERT, SELECT, WHERE, DISTINCT |
+| **Day 02** | Constraints – PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL,UPDATE, DELETE, TRUNCATE |
+| **Day 03** |  Aggregate Functions – COUNT, SUM, AVG, MIN, MAX,GROUP BY & HAVING – Practice Questions |
+| **Day 04** |Joins – INNER, LEFT, RIGHT (Practice Queries),Subqueries & Nested Queries |
+| **Day 05** | Stored Procedures, Triggers & Mixed SQL Practice |
 
 ---
 
@@ -35,11 +35,11 @@ This repository is structured for **focused learning in first 5 days** and **han
 
 | Day | What You Practice |
 |----|------------------|
-| **Day 06** | GROUP BY & HAVING – Practice Questions |
-| **Day 07** | Joins – INNER, LEFT, RIGHT (Practice Queries) |
-| **Day 08** | Subqueries & Nested Queries |
-| **Day 09** | Views, Indexes, UNION |
-| **Day 10** | Stored Procedures, Triggers & Mixed SQL Practice |
+| **Day 06** |  Practice Questions |
+| **Day 07** |  Practice Questions |
+| **Day 08** |  Practice Questions |
+| **Day 09** |  Practice Questions |
+| **Day 10** |  Practice Questions |
 
 > ⚠️ **Day 6–10 files contain ONLY PRACTICE**, no theory — pure hands-on 💪
 
