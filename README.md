@@ -72,7 +72,7 @@ This repository is structured for **focused learning in first 5 days** and **han
 ├── Day07_Practice.sql
 ├── Day08_Practice.sql
 ├── Day09_Practice.sql
-├── Day10_Practice.sql
+├── Day10_Small_practice_project
 ├── README.md
 ```
 
@@ -107,6 +107,26 @@ Want to improve this repo?
 Fork → Practice → Pull Request 👍
 
 ---
+
+## Project Overview
+
+# Zepto SQL Analysis
+
+SQL-based analysis of Zepto product data to understand pricing, discounts, and inventory status.
+
+## Tools
+- MySQL
+- CSV Dataset
+
+## Analysis
+- Product and category counts  
+- MRP vs discounted price  
+- Top discounted products  
+- Out-of-stock and low-stock items  
+
+## Outcome
+Identified discount-driven pricing strategy and inventory gaps using SQL queries.
+
 
 ## ⭐ Support
 
