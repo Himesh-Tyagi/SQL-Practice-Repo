@@ -39,7 +39,7 @@ This repository is structured for **focused learning in first 5 days** and **han
 | **Day 07** |  Practice Questions |
 | **Day 08** |  Practice Questions |
 | **Day 09** |  Practice Questions |
-| **Day 10** |  Practice Questions |
+| **Day 10** |  Project |
 
 > ⚠️ **Day 6–10 files contain ONLY PRACTICE**, no theory — pure hands-on 💪
 
