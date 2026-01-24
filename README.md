@@ -128,6 +128,9 @@ SQL-based analysis of Zepto product data to understand pricing, discounts, and i
 Identified discount-driven pricing strategy and inventory gaps using SQL queries.
 
 
+## Practice Platform :- https://app.datawars.io
+
+
 ## ⭐ Support
 
 If this repo helps you:
